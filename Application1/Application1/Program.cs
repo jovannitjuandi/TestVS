@@ -8,6 +8,7 @@ namespace Application1
         static void Main(string[] args)
         {
             WriteLine("HELLO WORLD");
+            WriteLine("FROM THE BROWSER");
 
             ReadLine();
         }

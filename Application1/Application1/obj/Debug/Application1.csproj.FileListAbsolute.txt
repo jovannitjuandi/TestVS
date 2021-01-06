@@ -1,0 +1,6 @@
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\bin\Debug\Application1.exe.config
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\bin\Debug\Application1.exe
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\bin\Debug\Application1.pdb
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\obj\Debug\Application1.exe
+D:\Documents\C#\PublicRepo\TestVS\Application1\Application1\obj\Debug\Application1.pdb

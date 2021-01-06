@@ -7,6 +7,7 @@ namespace Application1
     {
         static void Main(string[] args)
         {
+            /* checking github desktop with visual studio */
             WriteLine("HELLO WORLD");
             WriteLine("FROM THE BROWSER");
 
